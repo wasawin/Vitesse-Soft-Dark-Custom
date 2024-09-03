@@ -1,7 +1,16 @@
 {
   "name": "vitesse-custom",
-  "displayName": "vitesse-custom",
+  "displayName": "vitesse soft dark custom",
   "description": "",
+  "publisher": "Wasawin",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wasawin/Vitesse-Soft-Dark-Custom"
+  },
+  "keywords": [
+    "Vitesse ",
+    "dark theme"
+  ],
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.92.0"
